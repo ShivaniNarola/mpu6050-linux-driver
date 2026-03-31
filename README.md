@@ -14,6 +14,7 @@ Linux kernel I2C driver for the MPU6050 IMU sensor on Raspberry Pi. The driver r
 
 
 make clean
+
 make
 
 
